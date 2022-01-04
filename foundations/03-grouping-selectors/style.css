@@ -1,0 +1,17 @@
+.button-1 {
+    color: white;
+    background-color: black;
+}
+
+.button-2 {
+    background-color: yellow;
+}
+
+.button-1,
+.button-2 {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+/* is it good css practice to put the grouping selectors on top 
+or is it doesn't really matter if it's at the bottom? Guess i'll find that out down the road */
