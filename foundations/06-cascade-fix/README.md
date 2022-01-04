@@ -11,5 +11,8 @@ Issues with the cascade can be the bane of their existence for many when it come
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? yes
+- If you added selectors to the CSS, do they target a valid HTML element? i did not add selectors, only shifted their positions (to take advantage of the rule order.)
+
+#### What I learned
+- It looks as though css cascade will also the death of me when I make style my HTMLs in the future. Buy hey, at least I know it exists now so it's not gonna be that difficult to google that up.
