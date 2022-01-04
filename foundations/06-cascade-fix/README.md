@@ -16,3 +16,4 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 #### What I learned
 - It looks as though css cascade will also the death of me when I make style my HTMLs in the future. Buy hey, at least I know it exists now so it's not gonna be that difficult to google that up.
+- ...
