@@ -1,19 +1,19 @@
-.odd-number {
-    background-color:rgb(248, 156, 179);
+.odd-item {
+    background-color:rgb(253, 162, 200);
     font-family: Verdana, sans-serif;
 }
 
-#number-2 {
-    color: rgb(11, 11, 160);
-    font-size: 36px;
-}
-
-.number-3 {
+.item-3 {
     font-size: 24px;
 }
 
-#number-4 {
-    background-color: rgb(125, 214, 125);
+#item-2 {
+    color: rgb(36, 36, 88);
+    font-size: 36px;
+}
+
+#item-4 {
+    background-color: rgb(75, 230, 75);
     font-size: 24px;
     font-weight: bold;
 }
