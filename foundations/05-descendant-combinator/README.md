@@ -14,5 +14,9 @@ The properties you need to add are:
 
 
 ### Self Check
-- Do the elements that contain the text "This should be styled" have the correct styles applied?
-- Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Do the elements that contain the text "This should be styled" have the correct styles applied? yes maam
+- Do the elements that contain the text "This should be unstyled" have no styles applied? yes maam
+
+#### What I learned
+- descendant combinators uses the concept of inheritance, wherein elements that are descendants of another element are the only elements to which changes should be applied to.
+- How does inheritance in css works? Can the 'ancestors' be of any type? Is there a heirarchy of types/classes'IDs?
