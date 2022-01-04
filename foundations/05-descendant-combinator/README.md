@@ -20,3 +20,4 @@ The properties you need to add are:
 #### What I learned
 - descendant combinators uses the concept of inheritance, wherein elements that are descendants of another element are the only elements to which changes should be applied to.
 - How does inheritance in css works? Can the 'ancestors' be of any type? Is there a heirarchy of types/classes'IDs?
+- ....
