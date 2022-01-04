@@ -18,3 +18,6 @@ The properties you need to add to each element are:
 - Did you properly chain class selectors for each rule? yes
 - Does the `proportioned` image retain its original square proportions? yes, this is because the height was set to 'auto' after the width was modified
 - Does the `distorted` image end up looking squished and, well, distorted? yes
+
+#### What I learned
+- did a class chaining in CSS.
